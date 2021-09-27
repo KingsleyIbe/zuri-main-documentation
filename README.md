@@ -1,7 +1,18 @@
 # zuri-main-documentation
-## Join a workspace
 
-1. Visit [the home page](https://staging.zuri.chat)
+## Create User Account
+To use zuri chat you need to sign up or sign in if you already have an account.
+Follow the steps below to sign up as a new user.
+
+1. Visit the [home page](https://staging.zuri.chat)
+2. Click on 'sign up'
+3. Enter your details in the required fields
+4. Click on submit
+5. Verify your account
+
+## Sign in/Join a workspace
+
+1. Visit the [home page](https://staging.zuri.chat)
 2. Click on Login
 3. Enter your login details
 4. Select your workspace from the list
@@ -44,4 +55,6 @@ Also, you can customize your messages and media. You will be able to select your
 2. Click on the profile
 3. From the modal select preferences
 4. Select Media from the menu.
+
+
 
