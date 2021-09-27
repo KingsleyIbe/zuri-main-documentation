@@ -17,6 +17,14 @@ Follow the steps below to sign up as a new user.
 3. Enter your login details
 4. Select your workspace from the list
 
+## Password Recovery
+1. Visit the [home page](https://staging.zuri.chat)
+2. Click on Forget Password
+3. Enter your Email 
+4. Verify your email.
+5. Create new password
+
+
 ## Change profile picture
 1. Login to access your profile.
 2. Click on profile picture avatar on the zc main dashboard
