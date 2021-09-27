@@ -1,7 +1,7 @@
 # zuri-main-documentation
 ## Join a workspace
 
-1. Visit https://staging.zuri.chat
+1. Visit [the home page](https://staging.zuri.chat)
 2. Click on Login
 3. Enter your login details
 4. Select your workspace from the list
