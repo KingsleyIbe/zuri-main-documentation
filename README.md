@@ -64,5 +64,19 @@ Also, you can customize your messages and media. You will be able to select your
 3. From the modal select preferences
 4. Select Media from the menu.
 
+### Language Preferences
+1. Navigate to the 'Home Page'
+2. Click the topbar icon.
+3. Navigate to Preferences.
+4. On the Preferences sidebar, click on Language & Region.
+5. In the Language Section, select a language of your choice.
+
+### Activate/Deactivate Spellcheck 
+1. Navigate to the 'Home Page'
+2. Click the topbar icon.
+3. Navigate to Preferences.
+4. On the Preferences sidebar, click on Language & Region.
+5. Click on the checkbox to mark or unmark spellcheck.
+
 
 
